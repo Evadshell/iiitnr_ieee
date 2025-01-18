@@ -48,7 +48,6 @@ const Header = () => {
         </div>
       </div>
 
-      {/* Main header */}
       <div className="container mx-auto flex h-20 items-center justify-between px-4 lg:px-6">
         <Link href="/" className="flex items-center">
           <h1 className="text-lg font-bold text-[#00629B] md:text-2xl">
